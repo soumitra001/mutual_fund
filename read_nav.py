@@ -71,12 +71,28 @@ def main():
 
     nav_results = fetch_navs(scheme_codes)
 
+    # Column widths
+    code_width = 12
+    name_width = 55
+    nav_width = 12
+    date_width = 14
+
+    header = f"{'Scheme Code':<{code_width}}  {'Scheme Name':<{name_width}}  {'NAV':<{nav_width}}  {'Date':<{date_width}}"
+    separator = f"{'-' * code_width}  {'-' * name_width}  {'-' * nav_width}  {'-' * date_width}"
+    print(header)
+    print(separator)
+
     for result in nav_results:
+        code = result['scheme_code']
+        name = result['scheme_name']
+        nav = result['nav']
+        date = result['last_updated']
+
+        if len(name) > name_width:
+            name = name[:name_width - 3] + '...'
+
         print(
-            f"Code: {result['scheme_code']} | "
-            f"Name: {result['scheme_name']} | "
-            f"NAV: {result['nav']} | "
-            f"Date: {result['last_updated']}"
+            f"{code:<{code_width}}  {name:<{name_width}}  {nav:<{nav_width}}  {date:<{date_width}}"
         )
 
     with open(args.output, 'w', encoding='utf-8') as out_file:
