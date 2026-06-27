@@ -62,6 +62,11 @@ def main():
         default='my_mutual_fund_nav.json',
         help='Optional JSON file to save NAV results.'
     )
+    parser.add_argument(
+        '--text-output', '-t',
+        default='my_mutual_fund_nav.txt',
+        help='Optional text file to save the printed table output.'
+    )
     args = parser.parse_args()
 
     scheme_codes = parse_scheme_codes(args.file)
@@ -79,9 +84,8 @@ def main():
 
     header = f"{'Scheme Code':<{code_width}}  {'Scheme Name':<{name_width}}  {'NAV':<{nav_width}}  {'Date':<{date_width}}"
     separator = f"{'-' * code_width}  {'-' * name_width}  {'-' * nav_width}  {'-' * date_width}"
-    print(header)
-    print(separator)
 
+    table_lines = [header, separator]
     for result in nav_results:
         code = result['scheme_code']
         name = result['scheme_name']
@@ -91,14 +95,20 @@ def main():
         if len(name) > name_width:
             name = name[:name_width - 3] + '...'
 
-        print(
+        table_lines.append(
             f"{code:<{code_width}}  {name:<{name_width}}  {nav:<{nav_width}}  {date:<{date_width}}"
         )
+
+    print('\n'.join(table_lines))
 
     with open(args.output, 'w', encoding='utf-8') as out_file:
         json.dump(nav_results, out_file, indent=2, ensure_ascii=False)
 
+    with open(args.text_output, 'w', encoding='utf-8') as text_file:
+        text_file.write('\n'.join(table_lines) + '\n')
+
     print(f'NAV results saved to {args.output}')
+    print(f'Table output saved to {args.text_output}')
 
 
 if __name__ == '__main__':

@@ -1,0 +1,29 @@
+Scheme Code   Scheme Name                                              NAV           Date          
+------------  -------------------------------------------------------  ------------  --------------
+125350        Axis Small Cap Fund - Regular Plan - Growth              111.49        25-Jun-2026   
+105758        HDFC Mid Cap Fund - Growth Plan                          204.864       25-Jun-2026   
+109445        ICICI Prudential Banking and Financial Services Fund...  132.88        25-Jun-2026   
+122640        Parag Parikh Flexi Cap Fund - Regular Plan - Growth      81.8366       25-Jun-2026   
+125305        PGIM India Midcap Fund - Regular Plan - Growth Option    64.62         25-Jun-2026   
+104513        quant Large & Mid Cap Fund - Growth Option               124.039       25-Jun-2026   
+100177        quant Small Cap Fund - Growth - Regular Plan             280.3953      25-Jun-2026   
+138523        PGIM India Global Equity Opportunities Fund of Fund-...  53.44         25-Jun-2026   
+120412        Invesco India Multicap Fund - Direct Plan - IDCW (Pa...  139.77        25-Jun-2026   
+130771        Axis Arbitrage Fund - Regular Plan - Growth              19.7770       25-Jun-2026   
+103215        SBI Flexicap Fund - REGULAR PLAN -Growth Option          106.9365      25-Jun-2026   
+112277        Axis Large Cap Fund - Regular Plan - Growth              59.32         25-Jun-2026   
+147760        Tata Focused Fund-Regular Plan-Growth                    22.9598       25-Jun-2026   
+114564        Axis Midcap Fund - Regular Plan - Growth                 119.00        25-Jun-2026   
+147929        Axis ESG Integration Strategy Fund - Regular Plan - ...  20.90         25-Jun-2026   
+113221        CANARA ROBECO LARGE CAP FUND - REGULAR PLAN - GROWTH...  61.1500       25-Jun-2026   
+107578        Mirae Asset Large Cap Fund - Growth Plan                 111.232       25-Jun-2026   
+125305        PGIM India Midcap Fund - Regular Plan - Growth Option    64.62         25-Jun-2026   
+133836        PGIM India Flexi Cap Fund - Regular Plan - Growth Op...  36.08         25-Jun-2026   
+100377        Nippon India Growth Mid Cap Fund-Growth Plan-Growth ...  4471.2366     25-Jun-2026   
+146007        Tata Balanced Advantage Fund-Regular Plan-Growth         21.0120       25-Jun-2026   
+113177        Nippon India Small Cap Fund - Growth Plan - Growth O...  179.7509      25-Jun-2026   
+115676        SBI GOLD FUND REGULAR PLAN - GROWTH                      40.4312       25-Jun-2026   
+100349        ICICI Prudential Large & Mid Cap Fund - Growth           1014.88       25-Jun-2026   
+114458        Kotak Large Cap Fund - Growth                            562.298       25-Jun-2026   
+147944        BANDHAN SMALL CAP FUND - REGULAR PLAN GROWTH             49.446        25-Jun-2026   
+105968        Kotak Arbitrage Fund - Regular Plan - Growth             39.68         25-Jun-2026   
