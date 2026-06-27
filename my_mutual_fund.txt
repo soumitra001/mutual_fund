@@ -1,2 +1,26 @@
-125350	Axis Small Cap Fund - Regular Plan - Growth
-105758	HDFC Mid Cap Fund - Growth Plan
+
+125350  Axis Small Cap Fund - Regular Plan - Growth
+105758  HDFC Mid Cap Fund - Growth Plan
+109445  ICICI Prudential Banking and Financial Services Fund -  Growth
+122640  Parag Parikh Flexi Cap Fund - Regular Plan - Growth
+125305  PGIM India  Midcap Fund - Regular Plan - Growth Option
+104513  Quant Large & Mid Cap Fund - Growth Option
+100177  Quant Small Cap Fund - Growth - Regular Plan
+130771  Axis Arbitrage Fund - Regular Plan - Growth
+103215  SBI Flexicap Fund - REGULAR PLAN -Growth Option
+112277  Axis Large Cap Fund - Regular Plan - Growth
+147760  Tata Focused Fund-Regular Plan-Growth
+114564  Axis Midcap Fund - Regular Plan - Growth
+147929  Axis ESG Integration Strategy Fund - Regular Plan - Growth Option
+113221  CANARA ROBECO LARGE CAP FUND - REGULAR PLAN - GROWTH OPTION
+107578  Mirae Asset Large Cap Fund - Growth Plan:w
+125305  PGIM India Midcap Fund - Regular Plan - Growth Option
+133836  PGIM India Flexi Cap Fund - Regular Plan - Growth Option
+100377  Nippon India Growth Mid Cap Fund-Growth Plan-Growth Option
+146007  Tata Balanced Advantage Fund-Regular Plan-Growth
+113177  Nippon India Small Cap Fund - Growth Plan - Growth Option
+115676  SBI GOLD FUND REGULAR PLAN - GROWTH
+100349  ICICI Prudential Large & Mid Cap Fund - Growth
+114458  Kotak Large Cap Fund - Growth
+147944  BANDHAN SMALL CAP FUND - REGULAR PLAN GROWTH
+105968  Kotak Arbitrage Fund - Regular Plan - Growth
